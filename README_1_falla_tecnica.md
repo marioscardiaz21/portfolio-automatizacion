@@ -18,7 +18,6 @@ El equipo operativo necesitaba, todos los días, cruzar tres bases de datos dist
 ## 📊 Resultado
 
 | Métrica | Antes | Después | Mejora |
-|---|---|---|---|
 | Tiempo de generación del reporte | 40 min | 3 min | **-93%** |
 
 ## 🛠️ Tecnologías
